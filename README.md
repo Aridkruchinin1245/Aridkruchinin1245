@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Aridkruchinin1245/Aridkruchinin1245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Контакты
+
+|  |  |
+|---|---|
+| <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="email"> | <a href="mailto:your.email@example.com">misakrucinin80@gmail.com</a> |
+| <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"> | <a href="https://t.me/your_username">@Aridkruchinin</a> |
+
